@@ -1,0 +1,5 @@
+fruit weight cost
+apple 1 1.5
+pineapple 7 5
+banana 1.2 2
+orange 0.8 1

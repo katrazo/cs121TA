@@ -1,0 +1,4 @@
+fruit weight cost
+apple .62 1.50
+banana .78 2
+grape .08 1.25
