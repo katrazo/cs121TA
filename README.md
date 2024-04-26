@@ -1,7 +1,7 @@
 # cs121TA
 In-class and homework/project activities I completed alongside the students during the Spring 2024 term. This repository serves as an example for them and a portfolio for me.
 Each folder in this repository is its own IntelliJ IDEA Community Edition project and should be treated as such. Below is a chart outlining the pourpose of each project.
-[Note: I was a TA for both CS121 section 1 and CS121 section 4. In the enumerating of the activities, there bec
+[Note: I was a TA for both CS121 section 1 and CS121 section 4. In the enumerating of the activities, there became a discrepancy between the dates the activities took place and the numbers assigned to them, between the professors of these two sessions respectively. As such, the enumeration of these folders is akin to that used in CS121 section 4.
 
 ---
 | Assignment Name | Description |
